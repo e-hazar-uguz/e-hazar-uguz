@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [my repo](https://github.com/e-hazar-uguz?tab=repositories)
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💫 I’m looking to collaborate on every web based project
 
